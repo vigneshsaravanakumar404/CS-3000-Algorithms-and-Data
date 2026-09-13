@@ -16,7 +16,7 @@
 | Category                    | Information |
 | :-------------------------- | :---------- |
 | **Semester**                | Fall 2025 |
-| **Grade Earned**            | A |
+| **Grade Earned**            | 95.41% (A) |
 | **Programming Language**    | LaTeX (proof write-ups; no programming assignments) |
 | **Development Environment** | Overleaf |
 
